@@ -23,3 +23,10 @@ body {
 a {
   color: inherit;
 } 
+
+/*This makes the footer stays always ocuppying the page */
+#root {
+  display: flex;
+  min-height: calc(100vh - var(--bodyPaddingTop));
+  flex-direction: column;
+}
