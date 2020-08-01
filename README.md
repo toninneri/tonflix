@@ -1,4 +1,16 @@
+You can see the project here: [Demo page](https://tonflix-ton.vercel.app/)
+
+<h1 align=center>
+<img src="https://github.com/toninneri/Images/blob/master/tonflixblue.png?raw=true" />
+</h1>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+<h1 align=center>
+<img src="https://github.com/toninneri/Images/blob/master/screentonflix.png?raw=true" />
+</h1>
+
 
 ## Available Scripts
 
